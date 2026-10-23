@@ -21,7 +21,15 @@ Access the installer menu as follows:
 7. Move the cursor to **Enable** under NaviLink Connection and press **OK**.
 8. Press **↩** repeatedly to exit all menu screens. The unit will reboot and purge the lines. Your ESP should then begin reporting data.
 
-> **Note:** Units manufactured before approximately 2016 do not support NaviLink and cannot be used with this project.
+If your unit does not have the buttons mentioned above, try the following:
+
+1. On the front panel, press the **Power** button to turn off the water heater.
+2. Enter the R&D information menu by pressing the Up **(+)** button **three** **times**, the Down **(-)** button **three times**, and then the Up **(+)** button **four more times**.
+3. Use the Up **(+)** or Down **(-)** buttons to move to “**2.PAR**” (Parameter information mode), and then press the **Info** button.
+4. In the Parameter information time mode, use the Up **(+)** or Down **(-)** buttons to select “**P.18**” Then, press the **Info** button to enter the NaviLink connection setting mode.
+5. In the NaviLink connection setting mode, use the Up **(+)** or Down **(-)** buttons to change the value and press the **Info** button to set to the desired mode.
+
+> **Note:** Units manufactured before March 22, 2016 do not support NaviLink and require installation of the NaviLink Conversion Kit. Use the serial number to decode the date of manufacture. Digits 6–7 = Year of manufacture  |  Digit 8 = Month, where X, Y and Z mean October, November and December, and digits 9–10 = Day.
 
 ---
 
